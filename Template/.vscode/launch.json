@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "PC4",
+            "server": "http://PC4:7949",
+            "serverInstance": "DynamicsNAV130",
+            "authentication": "Windows",
+            "startupObjectId": 22,
+            "startupObjectType": "Page",
+            "breakOnError": true
+        }
+    ]
+}
