@@ -70,9 +70,13 @@ page 50153 "Address Search Results"
     {
         area(Processing)
         {
-            action(ActionName)
+            action(CreateContact)
             {
                 ApplicationArea = All;
+                Caption = 'Create Contact';
+                Image = NewCustomer;
+                PromotedIsBig = true;
+                Promoted = true;
 
                 trigger OnAction();
                 begin

@@ -123,6 +123,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AddressService - NamedType RootNodeNotFounderr</note>
         </trans-unit>
+        <trans-unit id="Codeunit 2126234701 - NamedType 4128655501" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contact "%1" successfully created.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AddressService - NamedType AddrCreatedtxt</note>
+        </trans-unit>
         <trans-unit id="Page 1387988236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Address Search</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -137,6 +142,11 @@
           <source>City/Zip/Canton</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Address Search Dialog - Control SearchLocation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 525692694 - Action 1192441944 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Contact</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Address Search Results - Action CreateContact - Property Caption</note>
         </trans-unit>
         <trans-unit id="PageExtension 1715652430 - Action 703317759 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Search Address</source>

@@ -106,6 +106,23 @@ codeunit 50150 AddressService
         Window.Close();
     end;
 
+    procedure CreateContact(var AddrBuffer: Record "Address Search Buffer" temporary; Silent: Boolean)
+    var
+        Contact: Record Contact;
+    begin
+        Contact.Init();
+        Contact.Insert(True);
+        Contact.Validate("First Name", Format(AddrBuffer.Firstname, -MaxStrLen(Contact."First Name")));
+        Contact.Validate(Surname, Format(AddrBuffer.Name, -MaxStrLen(Contact.Surname)));
+        Contact.Address := Format(AddrBuffer.Street + ' ' + AddrBuffer."Street No.", -MaxStrLen(Contact.Address));
+        Contact."Post Code" := AddrBuffer.Zip;
+        Contact.Validate(City, Format(AddrBuffer.City, -MaxStrLen(Contact.City)));
+        Contact."Phone No." := Format(AddrBuffer.Phone, -MaxStrLen(Contact."Phone No."));
+        Contact.Modify(True);
+        if not Silent then
+            Message(AddrCreatedtxt, Contact."No.");
+    end;
+
     var
         DlgTxt: Label 'Processing Search...';
         ConnErr: Label 'Unable to connect to web service.';
@@ -115,5 +132,6 @@ codeunit 50150 AddressService
         WebServErr3: Label 'Description: %2';
         IvalidRespErr: Label 'Invalid response, expected an XML Document as response';
         RootNodeNotFounderr: Label 'Root Node not found';
+        AddrCreatedtxt: Label 'Contact "%1" successfully created.';
 
 }
