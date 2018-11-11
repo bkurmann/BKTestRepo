@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="RESTTest1">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2004293356 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address Search Buffer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address Search Buffer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2004293356 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address Search Buffer - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2004293356 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address Search Buffer - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2004293356 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address Search Buffer - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2004293356 - Field 234369983 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prename</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address Search Buffer - Field Firstname - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2004293356 - Field 742039999 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Maidenname</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address Search Buffer - Field Maidenname - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2004293356 - Field 752586859 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Street</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address Search Buffer - Field Street - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2004293356 - Field 1626752386 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Street No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address Search Buffer - Field Street No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2004293356 - Field 1653072429 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Zip Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address Search Buffer - Field Zip - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2004293356 - Field 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address Search Buffer - Field City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2004293356 - Field 646935216 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address Search Buffer - Field Phone - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2004293356 - Field 3622369697 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Profession</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address Search Buffer - Field Occupation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1106020497 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address Search Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address Search Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1106020497 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address Search Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1106020497 - Field 682390464 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>License Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Address Search Setup - Field License Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1106020497 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address Search Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Address Search Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2126234701 - NamedType 1573954737" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing Search...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AddressService - NamedType DlgTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2126234701 - NamedType 43930467" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unable to connect to web service.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AddressService - NamedType ConnErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2126234701 - NamedType 1969923335" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invalid search query.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AddressService - NamedType InvalidSearchExprErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2126234701 - NamedType 409936034" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The web service returned an error message:\\</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AddressService - NamedType WebServErr1</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2126234701 - NamedType 2791813479" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status code: %1\</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AddressService - NamedType WebServErr2</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2126234701 - NamedType 3429510096" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description: %2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AddressService - NamedType WebServErr3</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2126234701 - NamedType 2138520954" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invalid response, expected an XML Document as response</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AddressService - NamedType IvalidRespErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2126234701 - NamedType 3702779156" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Root Node not found</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AddressService - NamedType RootNodeNotFounderr</note>
+        </trans-unit>
+        <trans-unit id="Page 1387988236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address Search</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Address Search Dialog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1387988236 - Control 193665107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Names/Rubric/Phone</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Address Search Dialog - Control SearchName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1387988236 - Control 3716101845 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City/Zip/Canton</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Address Search Dialog - Control SearchLocation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1715652430 - Action 703317759 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Search Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Address Search Page Extension - Action AddrSearch - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
