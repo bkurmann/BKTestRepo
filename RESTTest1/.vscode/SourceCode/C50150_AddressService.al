@@ -112,7 +112,6 @@ codeunit 50150 AddressService
     begin
         Contact.Init();
         Contact.Insert(True);
-        Contact.Type := Contact.Type::Person;
         Contact.Validate("First Name", Format(AddrBuffer.Firstname, -MaxStrLen(Contact."First Name")));
         Contact.Validate(Surname, Format(AddrBuffer.Name, -MaxStrLen(Contact.Surname)));
         Contact.Address := Format(AddrBuffer.Street + ' ' + AddrBuffer."Street No.", -MaxStrLen(Contact.Address));
