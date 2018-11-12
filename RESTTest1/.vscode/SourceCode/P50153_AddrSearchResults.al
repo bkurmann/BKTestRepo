@@ -79,8 +79,10 @@ page 50153 "Address Search Results"
                 Promoted = true;
 
                 trigger OnAction();
+                var
+                    AddrService: Codeunit AddressService;
                 begin
-
+                    AddrService.CreateContact(Rec, false);
                 end;
             }
         }
